@@ -2,7 +2,7 @@
 ﻿Avant de lancer le script, rassurer vous que vous aviez git installer sur votre pc c_à_d : 
 1.1) Ouvrez votre terminal
  1.2) Ecrivez sur votre terminal : git --version 
-Si git est installer vous verrez le message suivant  comme dans notre cas :
+, Si git est installer vous verrez le message suivant  comme dans notre cas :
 ![image](https://user-images.githubusercontent.com/61586453/175131592-42070577-a518-4f0c-a488-cb7ee72f2334.png)
 
 
